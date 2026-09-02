@@ -17,7 +17,7 @@ labs, projects, and cybersecurity training.
 2. Hack The Box Labs
 3. Personal Projects
 4. Notes & References
-
+1. [TryHackMe Labs](tryhackme/)
 ## Contact
 - Email: ivanoriekhov1999@gmail.com
 - GitHub: github.com/ivanoriekhov
