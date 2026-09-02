@@ -9,8 +9,8 @@ labs, projects, and cybersecurity training.
 ## Certifications
 
 - Google Cybersecurity Professional Certificate — In Progress
-- Red Hat | Certificate - In Progress
-- Red Hat || Certificate - In Progress
+- Rad Hat System Administration I (RH124) Certificate - In Progress
+- Red Hat System Administration II (RH134) Certificate - In Progress
   
 ## Sections
 1. [TryHackMe Labs](tryhackme/)
