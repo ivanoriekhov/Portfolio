@@ -1,7 +1,7 @@
 # Cybersecurity Portfolio
 
 ## About Me
-Cybersecurity Analyst | SOC & Pen-Testing | Python, Linux, Networking
+Cybersecurity Analyst | SOC & cloud testing | Python, Linux, Networking
 
 ## Sections
 1. TryHackMe Labs
