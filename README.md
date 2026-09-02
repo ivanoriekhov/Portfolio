@@ -13,11 +13,11 @@ labs, projects, and cybersecurity training.
 - Red Hat || Certificate - In Progress
   
 ## Sections
-1. TryHackMe Labs
-2. Hack The Box Labs
-3. Personal Projects
-4. Notes & References
 1. [TryHackMe Labs](tryhackme/)
+2. [Hack The Box Labs](hackthebox/)
+3. [Personal Projects](projects/)
+4. [Cybersecurity Notes](notes/)
+
 ## Contact
 - Email: ivanoriekhov1999@gmail.com
 - GitHub: github.com/ivanoriekhov
