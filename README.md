@@ -6,7 +6,7 @@ Cybersecurity Analyst | SOC | Cloud Security | Python | Linux | Networking | SQL
 I am currently building hands-on experience in security operations, cloud security, network security, Linux, Python, and SQL through
 labs, projects, and cybersecurity training.
 
-##Certifications
+## Certifications
 
 - Google Cybersecurity Professional Certificate — In Progress
 - Red Hat | Certificate - In Progress
