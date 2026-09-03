@@ -6,11 +6,11 @@
 
 -Key skills demonstrated:
 
-Filtering security data using WHERE
-Combining multiple conditions with AND and OR
-Excluding results with NOT
-Searching patterns using LIKE
-Filtering dates and ranges
-Investigating login activity
-Identifying suspicious or unusual events
-Using SQL as part of a security analyst workflow
+Filtering security data using WHERE,
+Combining multiple conditions with AND and OR,
+Excluding results with NOT,
+Searching patterns using LIKE,
+Filtering dates and ranges,
+Investigating login activity,
+Identifying suspicious or unusual events,
+Using SQL as part of a security analyst workflow,
