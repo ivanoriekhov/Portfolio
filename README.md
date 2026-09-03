@@ -16,7 +16,7 @@ labs, projects, and cybersecurity training.
 1. [TryHackMe Labs](tryhackme/)
 2. [Hack The Box Labs](hackthebox/)
 3. [Personal Projects](projects/)
-4. [Cybersecurity Notes](notes/)
+4. [Cybersecurity Notes](Notes/)
 
 ## Contact
 - Email: ivanoriekhov1999@gmail.com
